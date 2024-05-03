@@ -1,2 +1,2 @@
-# VIT-CapstoneProjectReportFormat
-VIT Vellore Capstone Project Report Word Format
+# VIT-Capstone Project Report Format
+VIT Vellore Capstone Project Word Template
